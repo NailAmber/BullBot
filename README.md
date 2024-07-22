@@ -1,6 +1,6 @@
 # Auto BullBot claimer
 ![](/images/untitled.JPG)  
-Auto claimer for @Vertus_App_bot
+Auto claimer for @BullApp_bot
 
 ## Functionality
 | Functional                                                     | Supported |
