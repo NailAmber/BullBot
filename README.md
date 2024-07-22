@@ -1,6 +1,6 @@
 # Auto BullBot claimer
 ![](/images/untitled.JPG)  
-Auto claimer for @BullApp_bot
+Auto claimer for @Vertus_App_bot
 
 ## Functionality
 | Functional                                                     | Supported |
@@ -11,6 +11,8 @@ Auto claimer for @BullApp_bot
 | Random sleep time between accounts                             |     ✅     |
 | Support pyrogram .session                                      |     ✅     |
 | Get statistics for all accounts                                |     ✅     |
+| Generating unique user-agent for each session                  |     ✅     |
+| Completing tasks                                               |     ✅     |
 ## Settings data/config.py
 | Setting                      | Description                                                                                    |
 |------------------------------|------------------------------------------------------------------------------------------------|
