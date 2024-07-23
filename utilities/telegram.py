@@ -2,7 +2,7 @@ import asyncio
 import os
 from data import config
 from pyrogram import Client
-from utils.core import logger, load_from_json, save_list_to_file
+from utilities.core import logger, load_from_json, save_list_to_file
 import json
 
 class Accounts:

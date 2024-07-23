@@ -1,6 +1,6 @@
-from utils.core import create_sessions
-from utils.telegram import Accounts
-from utils.starter import startBullBot
+from utilities.core import create_sessions
+from utilities.telegram import Accounts
+from utilities.starter import startBullBot
 import asyncio
 import os
 import json

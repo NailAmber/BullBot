@@ -1,5 +1,5 @@
 import random
-from utils.core import logger
+from utilities.core import logger
 from pyrogram import Client, raw
 import asyncio
 import aiohttp

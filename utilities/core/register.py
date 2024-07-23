@@ -1,7 +1,7 @@
 import pyrogram
 from loguru import logger
 from data import config
-from utils.core.file_manager import save_to_json
+from utilities.core.file_manager import save_to_json
 import json
 
 async def create_sessions():

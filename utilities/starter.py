@@ -1,8 +1,8 @@
-from utils.bull import BullBot
+from utilities.bull import BullBot
 from asyncio import sleep
 from random import uniform
 from data import config
-from utils.core import logger
+from utilities.core import logger
 import asyncio
 from aiohttp.client_exceptions import ContentTypeError
 
