@@ -2,6 +2,8 @@
 ![](/images/untitled.JPG)  
 Auto claimer for @BullApp_bot
 
+My tg: https://t.me/Zzjjjuuu
+
 ## Functionality
 | Functional                                                     | Supported |
 |----------------------------------------------------------------|:---------:|
